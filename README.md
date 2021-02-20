@@ -2,8 +2,7 @@
 Discord bots programmer, applications and websites 
 ### welcome to my **profile** <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-![Discord](https://discord.c99.nl/widget/theme-1/704662135367663710.png)
-
+![Discord](https://discord.c99.nl/widget/theme-3/704662135367663710.png)
 ---
 
 - ❤ I’m love Python 
