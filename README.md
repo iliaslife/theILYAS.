@@ -5,8 +5,8 @@ Discord bots programmer, applications and websites
 ![Discord](https://discord.c99.nl/widget/theme-3/704662135367663710.png)
 ---
 
-- ❤ I’m love Python 
-- 💬 Ask me about anything related to Python
+- ❤ I love js and html
+- 💬 Ask me about anything related to Discord.js
 - 📫 How to reach me: [@Discord](https://discord.com/channels/@me/704662135367663710)
 -  <span style="color: green"> 🗻 My main project is [RockyBot](https://github.com/Rockybot-discord/Rockybot) </span>
 ---
